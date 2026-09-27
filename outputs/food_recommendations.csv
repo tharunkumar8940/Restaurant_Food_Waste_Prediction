@@ -1,0 +1,15 @@
+Food_Item,Total_Ordered,Total_Prepared,Total_Wasted,Waste_Percentage,Total_Revenue,Demand_Level,Waste_Level,Recommendation
+Noodles,1184,1770,586,33.10734463276836,130240,High Demand,High Waste,Optimize Preparation
+Chicken Grill,1131,1702,571,33.54876615746181,248820,High Demand,High Waste,Optimize Preparation
+Chicken Noodles,1125,1640,515,31.402439024390244,168750,High Demand,High Waste,Optimize Preparation
+Chicken Biryani,1118,1678,560,33.373063170441,201240,High Demand,High Waste,Optimize Preparation
+Paneer Butter Masala,1118,1629,511,31.36893799877225,190060,High Demand,High Waste,Optimize Preparation
+Parotta,1096,1668,572,34.2925659472422,65760,High Demand,High Waste,Optimize Preparation
+Dosa,1068,1586,518,32.66078184110971,53400,High Demand,High Waste,Optimize Preparation
+Veg Meals,1054,1622,568,35.01849568434032,105400,Low Demand,High Waste,Reduce Preparation
+Mutton Biryani,1052,1617,565,34.941249226963514,252480,Low Demand,High Waste,Reduce Preparation
+Idli,1045,1584,539,34.02777777777778,41800,Low Demand,High Waste,Reduce Preparation
+Chicken Fried Rice,1022,1568,546,34.82142857142857,163520,Low Demand,High Waste,Reduce Preparation
+Veg Biryani,1000,1502,502,33.422103861517975,130000,Low Demand,High Waste,Reduce Preparation
+Chicken 65,998,1515,517,34.12541254125412,139720,Low Demand,High Waste,Reduce Preparation
+Fried Rice,930,1421,491,34.553131597466574,111600,Low Demand,High Waste,Reduce Preparation
