@@ -1,3 +1,6 @@
+## 🚀 Live Application
+
+[Open the Restaurant Food Waste & Demand Prediction Dashboard](https://restaurantfoodwasteprediction-gkrmea6sgr9alf3ru8than.streamlit.app/)
 # 🍽️ Restaurant Food Waste & Demand Prediction System
 
 ## 📌 Project Overview
